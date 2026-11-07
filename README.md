@@ -1,8 +1,5 @@
 # 🎗️ Breast Cancer Classification — ML Assignment 2
 
-**Course:** Machine Learning | M.Tech AIML | BITS Pilani WILP  
-**Assignment:** 2 | Marks: 15  
-
 ---
 
 ## a. Problem Statement
@@ -75,7 +72,7 @@ to its interpretability and marginally higher AUC.
 ## Repository Structure
 
 ```
-ml-assignment-2/
+ML_Assignment/
 ├── app.py                  # Streamlit web application
 ├── train.py                # Model training & evaluation script
 ├── requirements.txt        # Python dependencies

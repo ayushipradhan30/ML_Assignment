@@ -37,7 +37,7 @@ No missing values. Dataset is well-suited for binary classification benchmarking
 
 ## c. GitHub Repository Link
 
-> 🔗 [https://github.com/<YOUR_USERNAME>/ml-assignment-2](https://github.com/<YOUR_USERNAME>/ml-assignment-2)
+> 🔗 https://github.com/ayushipradhan30/ML_Assignment
 
 *(Replace `<YOUR_USERNAME>` with your GitHub username after pushing the repository)*
 

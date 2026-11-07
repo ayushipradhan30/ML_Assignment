@@ -39,7 +39,6 @@ No missing values. Dataset is well-suited for binary classification benchmarking
 
 > 🔗 https://github.com/ayushipradhan30/ML_Assignment
 
-*(Replace `<YOUR_USERNAME>` with your GitHub username after pushing the repository)*
 
 ---
 
@@ -95,29 +94,7 @@ ml-assignment-2/
 
 ## Live Streamlit App
 
-> 🚀 [https://share.streamlit.io/<YOUR_USERNAME>/ml-assignment-2/main/app.py](https://share.streamlit.io/<YOUR_USERNAME>/ml-assignment-2/main/app.py)
-
-*(Replace `<YOUR_USERNAME>` with your Streamlit Community Cloud username after deployment)*
-
----
-
-## How to Run Locally
-
-```bash
-# Clone the repo
-git clone https://github.com/<YOUR_USERNAME>/ml-assignment-2.git
-cd ml-assignment-2
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Train models (generates model/ folder & test_data.csv)
-python train.py
-
-# Launch the Streamlit app
-streamlit run app.py
-```
+> 🚀 
+https://2026aj05077.streamlit.app/
 
 ---
-
-*All models trained with scikit-learn. Evaluation performed on a held-out 20% test split (stratified).*

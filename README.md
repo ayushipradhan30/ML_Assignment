@@ -79,7 +79,6 @@ ML_Assignment/
 ├── README.md               # This file
 ├── test_data.csv           # Test dataset (114 samples × 31 columns)
 └── model/
-    ├── scaler.joblib
     ├── logistic_regression.joblib
     ├── decision_tree.joblib
     ├── knn.joblib
